@@ -10,3 +10,6 @@ Unless required by applicable law or agreed to in writing, this
 software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
 CONDITIONS OF ANY KIND, either express or implied.*
 # ESP32S2_LCD_I2C
+
+
+This code uses the repo from https://github.com/DavidAntliff/esp32-i2c-lcd1602-example.git
