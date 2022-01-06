@@ -1,0 +1,5 @@
+source "F:/Users/Marisol/Documents/esp_idf/esp_idf_v4.3/components/app_update/Kconfig.projbuild"
+source "F:/Users/Marisol/Documents/esp_idf/esp_idf_v4.3/components/bootloader/Kconfig.projbuild"
+source "F:/Users/Marisol/Documents/esp_idf/esp_idf_v4.3/components/esptool_py/Kconfig.projbuild"
+source "F:/Users/Marisol/Documents/esp_idf/esp_idf_v4.3/components/partition_table/Kconfig.projbuild"
+source "F:/Users/Marisol/Documents/1_Projects_code/Eclipse/LCD2/main/Kconfig.projbuild"

@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+F:/Users/Marisol/Documents/1_Projects_code/Eclipse/LCD2/build/CMakeFiles/bootloader
+F:/Users/Marisol/Documents/1_Projects_code/Eclipse/LCD2/build/CMakeFiles/bootloader.rule
+F:/Users/Marisol/Documents/1_Projects_code/Eclipse/LCD2/build/CMakeFiles/bootloader-complete.rule
+F:/Users/Marisol/Documents/1_Projects_code/Eclipse/LCD2/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+F:/Users/Marisol/Documents/1_Projects_code/Eclipse/LCD2/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+F:/Users/Marisol/Documents/1_Projects_code/Eclipse/LCD2/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+F:/Users/Marisol/Documents/1_Projects_code/Eclipse/LCD2/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+F:/Users/Marisol/Documents/1_Projects_code/Eclipse/LCD2/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+F:/Users/Marisol/Documents/1_Projects_code/Eclipse/LCD2/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+F:/Users/Marisol/Documents/1_Projects_code/Eclipse/LCD2/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule

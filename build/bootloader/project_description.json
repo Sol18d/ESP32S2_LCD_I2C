@@ -1,0 +1,20 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "F:/Users/Marisol/Documents/esp_idf/esp_idf_v4.3/components/bootloader/subproject",
+    "build_dir":          "F:/Users/Marisol/Documents/1_Projects_code/Eclipse/LCD2/build/bootloader",
+    "config_file":        "F:/Users/Marisol/Documents/1_Projects_code/Eclipse/LCD2/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v4.3",
+    "target":             "esp32s2",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32s2-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "F:/Users/Marisol/Documents/esp_idf/esp_idf_v4.3/components/efuse/Kconfig;F:/Users/Marisol/Documents/esp_idf/esp_idf_v4.3/components/esp32s2/Kconfig;F:/Users/Marisol/Documents/esp_idf/esp_idf_v4.3/components/esp_common/Kconfig;F:/Users/Marisol/Documents/esp_idf/esp_idf_v4.3/components/esp_system/Kconfig;F:/Users/Marisol/Documents/esp_idf/esp_idf_v4.3/components/log/Kconfig;F:/Users/Marisol/Documents/esp_idf/esp_idf_v4.3/components/newlib/Kconfig;F:/Users/Marisol/Documents/esp_idf/esp_idf_v4.3/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "F:/Users/Marisol/Documents/esp_idf/esp_idf_v4.3/components/bootloader/Kconfig.projbuild;F:/Users/Marisol/Documents/esp_idf/esp_idf_v4.3/components/esptool_py/Kconfig.projbuild;F:/Users/Marisol/Documents/esp_idf/esp_idf_v4.3/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32s2", "esp_common", "esp_hw_support", "esp_rom", "esp_system", "esptool_py", "hal", "log", "main", "micro-ecc", "newlib", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "F:/Users/Marisol/Documents/esp_idf/esp_idf_v4.3/components/bootloader", "F:/Users/Marisol/Documents/esp_idf/esp_idf_v4.3/components/bootloader_support", "F:/Users/Marisol/Documents/esp_idf/esp_idf_v4.3/components/efuse", "F:/Users/Marisol/Documents/esp_idf/esp_idf_v4.3/components/esp32s2", "F:/Users/Marisol/Documents/esp_idf/esp_idf_v4.3/components/esp_common", "F:/Users/Marisol/Documents/esp_idf/esp_idf_v4.3/components/esp_hw_support", "F:/Users/Marisol/Documents/esp_idf/esp_idf_v4.3/components/esp_rom", "F:/Users/Marisol/Documents/esp_idf/esp_idf_v4.3/components/esp_system", "F:/Users/Marisol/Documents/esp_idf/esp_idf_v4.3/components/esptool_py", "F:/Users/Marisol/Documents/esp_idf/esp_idf_v4.3/components/hal", "F:/Users/Marisol/Documents/esp_idf/esp_idf_v4.3/components/log", "F:/Users/Marisol/Documents/esp_idf/esp_idf_v4.3/components/bootloader/subproject/main", "F:/Users/Marisol/Documents/esp_idf/esp_idf_v4.3/components/bootloader/subproject/components/micro-ecc", "F:/Users/Marisol/Documents/esp_idf/esp_idf_v4.3/components/newlib", "F:/Users/Marisol/Documents/esp_idf/esp_idf_v4.3/components/partition_table", "F:/Users/Marisol/Documents/esp_idf/esp_idf_v4.3/components/soc", "F:/Users/Marisol/Documents/esp_idf/esp_idf_v4.3/components/spi_flash", "F:/Users/Marisol/Documents/esp_idf/esp_idf_v4.3/components/xtensa", "" ]
+}
